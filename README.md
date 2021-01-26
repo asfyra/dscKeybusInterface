@@ -9,6 +9,7 @@ This implementation uses the following key mappings:
 * H; Home
 * C: Code
 * #: Enter
+
 So when you send a command to the virtual keyboard, use the letters above to simulate the respective alarm buttons.
 
 The system is fully tested on an ESP-8266, which is powered directly from the alarm board.
