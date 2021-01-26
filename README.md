@@ -1,4 +1,4 @@
-# Keybus Interface for Sigma MC-08
+# Keybus Interface for Sigma MC-08 alarm system
 This repo is a fork from the oroginal project https://github.com/taligentx/dscKeybusInterface, where you will find all the relative information and ways to attach to the alarm system
 
 I have made the required changes for the library to be able to support some old Sigma MC-08 alarm systems.
